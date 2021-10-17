@@ -30,6 +30,6 @@
 15. == comparison can convert types then perform comparision, === which is strict comparison has to make sure that type matches. 
 16. 21, 45, 5, 2 
 17. result will be [2, 4, 6]. Very similar to python's function as first class object that each push will append the result from what returned from function doSomething. doSomething will double an number which will double all elements inside the array. 
-18. 1 4 3 2 
-19. 
+18. [part2-question18.js](./part2-question18.js)
+19. 1 4 3 2
     
